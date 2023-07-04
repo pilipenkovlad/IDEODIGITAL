@@ -31,5 +31,6 @@
  }) Every Field can be empty.
 
 
-There is error handling which allow "stupid-user" scenarios
+There is error handling which allow "stupid-user" scenarios.
+
 After the App restarts all previous data will be lost!
